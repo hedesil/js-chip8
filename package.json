@@ -1,0 +1,24 @@
+{
+  "name": "js-chip8-emu",
+  "version": "1.0.0",
+  "description": "Example of CHIP-8 processor emulator written in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "^4.9.5",
+    "@types/node": "14.14.35",
+    "esbuild": "0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedesil/js-chip8.git"
+  },
+  "author": "Hedesil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hedesil/js-chip8/issues"
+  },
+  "homepage": "https://github.com/hedesil/js-chip8#readme"
+}
