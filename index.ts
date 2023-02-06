@@ -13,8 +13,4 @@ interface Machine_t {
     sound_timer: number; // If value is not 0, it will sound. If the emulator runs at 60FPS substract 1
 }
 
-let machine_t: Machine_t = {
-    memory: MEMORY_SIZE,
-    V: [],
-    i: 0
-};
+
